@@ -1,0 +1,80 @@
+[
+  {
+    "counterpartId": "杜牧",
+    "counterpartName": "杜牧",
+    "direction": "outgoing",
+    "excerpt": "衮衮天机新，𤁳𤁳淮水流。",
+    "fullText": "衮衮天机新，𤁳𤁳淮水流。\n青缠系白足，又踏淮南州。\n淮南古形胜，屹立东诸侯。\n三生杜牧之，谈笑筹边楼。\n据鞍草书檄，醉袖藏吴钩。\n子非功名人，负笈将安求。\n及此琼花春，聊作方外游。\n北道有主人，行李当无忧。\n临分祈赠言，意重嗟难酬。\n日暮多碧云，令人思惠休。",
+    "intensity": 0.9,
+    "note": "周密在《送柳下惠上人游维扬访孙制参道子》里把信息直接发向杜牧，这是一条强度更高的直连关系。",
+    "poemTitle": "送柳下惠上人游维扬访孙制参道子",
+    "relationId": "周密-杜牧-送柳下惠上人遊維揚訪孫制參道子",
+    "type": "gift",
+    "typeLabel": "赠诗"
+  },
+  {
+    "counterpartId": "岳珂",
+    "counterpartName": "岳珂",
+    "direction": "incoming",
+    "excerpt": "公在嘉祐，辅政受遗如毕公高，勋烈堂堂",
+    "fullText": "公在嘉祐，辅政受遗如毕公高，勋烈堂堂，奉同而𬯀也。\n公在治平，清浄画一如曹相国，德心休休，比规之随也。\n公在熙宁，功成身退如裴中令，寿隽番考，乐以全其归也。\n帖字宛然，既庄而复奇也。\n周密无间，笔法繇此推也。\n予得而藏，尚可以想麒麟之英姿也。",
+    "intensity": 0.72,
+    "note": "岳珂在《曾宣靖类见帖赞》里提到周密，形成一条可追踪的间接连接。",
+    "poemTitle": "曾宣靖类见帖赞",
+    "relationId": "岳珂-周密-曾宣靖類見帖贊",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "杜牧",
+    "counterpartName": "杜牧",
+    "direction": "outgoing",
+    "excerpt": "画舫笙箫张水嬉，小红娇翠鬭新眉。",
+    "fullText": "画舫笙箫张水嬉，小红娇翠鬭新眉。\n多情頼有河桥柳，犹认当年杜牧之。",
+    "intensity": 0.72,
+    "note": "周密在《花朝溪上有感昔游其二》里提到杜牧，形成一条可追踪的间接连接。",
+    "poemTitle": "花朝溪上有感昔游其二",
+    "relationId": "周密-杜牧-花朝溪上有感昔遊其二",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "李白",
+    "counterpartName": "李白",
+    "direction": "outgoing",
+    "excerpt": "白头强逐少年游，闲倚西风十二楼。",
+    "fullText": "白头强逐少年游，闲倚西风十二楼。\n共醉玉壶千古月，平分香国一天秋。\n祇应李白怜吾意，不信姮娥识此愁。\n夜久高寒犹露饮，花阴传漏已三筹。",
+    "intensity": 0.72,
+    "note": "周密在《吟社饮桂月边即席次韵》里提到李白，形成一条可追踪的间接连接。",
+    "poemTitle": "吟社饮桂月边即席次韵",
+    "relationId": "周密-李白-吟社飲桂月邊即席次韵",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "盈盈",
+    "counterpartName": "盈盈",
+    "direction": "outgoing",
+    "excerpt": "宫檐融暖晨妆懒。",
+    "fullText": "宫檐融暖晨妆懒。\n轻霞未匀酥脸。\n倚竹娇颦，临流瘦影，依约尊前重见。\n盈盈笑靥。\n映珠络玲珑，翠绡葱茜。\n梦入罗浮，满衣清露暗香染。\n东风千树易老，怕红颜旋减，芳意偷变。\n赠远天寒，吟香夜永，多少江南新怨。\n琼疏静掩。\n任翦雪栽云，竞夸轻艳。\n画角黄昏，梦随春共远。",
+    "intensity": 0.72,
+    "note": "周密在《齐天乐》里提到盈盈，形成一条可追踪的间接连接。",
+    "poemTitle": "齐天乐",
+    "relationId": "周密-盈盈-齐天乐",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "方回",
+    "counterpartName": "方回",
+    "direction": "outgoing",
+    "excerpt": "照野旌旗，朝天车马，平沙万里天低。",
+    "fullText": "照野旌旗，朝天车马，平沙万里天低。\n宝带金章，尊前茸帽风敧。\n秦关汴水经行地，想登临、都付新诗。\n纵英游，叠鼓清笳，骏马名姬。\n酒酣应对燕山雪，正冰河月冻，晓陇云飞。\n投老残年，江南谁念方回。\n东风渐绿西湖柳，雁已还、人未南归。\n最关情，折尽梅花，难寄相思。",
+    "intensity": 0.72,
+    "note": "周密在《高阳台》里提到方回，形成一条可追踪的间接连接。",
+    "poemTitle": "高阳台",
+    "relationId": "周密-方回-高阳台",
+    "type": "mention",
+    "typeLabel": "提及"
+  }
+]

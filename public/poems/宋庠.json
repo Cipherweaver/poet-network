@@ -1,0 +1,28 @@
+[
+  {
+    "counterpartId": "李端",
+    "counterpartName": "李端",
+    "direction": "outgoing",
+    "excerpt": "学道年嗟晚，知非骨已惊。",
+    "fullText": "学道年嗟晚，知非骨已惊。\n世纷夸要路，天意罪浮名。\n汶上朱轓宠，淮南白发生。\n惟余方寸地，留贮岁寒情。",
+    "intensity": 0.98,
+    "note": "宋庠在《寄李端明献臣》里把信息直接发向李端，这是一条强度更高的直连关系。",
+    "poemTitle": "寄李端明献臣",
+    "relationId": "宋庠-李端-寄李端明獻臣",
+    "type": "gift",
+    "typeLabel": "赠诗"
+  },
+  {
+    "counterpartId": "盈盈",
+    "counterpartName": "盈盈",
+    "direction": "outgoing",
+    "excerpt": "薛县高台已半倾，碧波遗甃自盈盈。",
+    "fullText": "薛县高台已半倾，碧波遗甃自盈盈。\n池蛙不辨兴亡意，犹学当年鼓吹声。",
+    "intensity": 0.72,
+    "note": "宋庠在《丁晋公故第东池上作》里提到盈盈，形成一条可追踪的间接连接。",
+    "poemTitle": "丁晋公故第东池上作",
+    "relationId": "宋庠-盈盈-丁晉公故第東池上作",
+    "type": "mention",
+    "typeLabel": "提及"
+  }
+]

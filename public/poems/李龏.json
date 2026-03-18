@@ -1,0 +1,93 @@
+[
+  {
+    "counterpartId": "武夷",
+    "counterpartName": "武夷",
+    "direction": "outgoing",
+    "excerpt": "客程遥指建溪行，要踏东风看幔亭。",
+    "fullText": "客程遥指建溪行，要踏东风看幔亭。\n君去莫嫌春色晚，落花一路水苔青。",
+    "intensity": 0.98,
+    "note": "李龏在《送月窗王敬叔游武夷》里把信息直接发向武夷，这是一条强度更高的直连关系。",
+    "poemTitle": "送月窗王敬叔游武夷",
+    "relationId": "李龏-武夷-送月窗王敬叔遊武夷",
+    "type": "gift",
+    "typeLabel": "赠诗"
+  },
+  {
+    "counterpartId": "江梅",
+    "counterpartName": "江梅",
+    "direction": "outgoing",
+    "excerpt": "婺源灯匠夺天巧，做出新灯极精好。",
+    "fullText": "婺源灯匠夺天巧，做出新灯极精好。\n细细琉璃万缕中，织得禽鱼及花草。\n锦娘眷眷绣娘羞，煌芒五色燿冰毬。\n江梅盈枝玉彯蘂，离枝满树红堆头。\n水晶不莹珠玑冷，屏间云母空烘影。\n百尺长竿横画梁，宝盖悬空系纤绠。\n绿滟鳞鳞晃曲波，斜冈蹙蹙映平坡。\n瓶中栀子豆心绽，篮里海棠绒带拖。\n午夜高堂明似昼，璧月涵光灿星斗。\n蜡香坱霭焰春阳，锦光倒射金杯酒。\n此灯绝妙世间无，乃是婺源灯画图。\n梁园下客非夸大，从今不必说姑苏。",
+    "intensity": 0.72,
+    "note": "李龏在《婺源琉璃万灯歌》里提到江梅，形成一条可追踪的间接连接。",
+    "poemTitle": "婺源琉璃万灯歌",
+    "relationId": "李龏-江梅-婺源琉璃萬燈歌",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "杜甫",
+    "counterpartName": "杜甫",
+    "direction": "outgoing",
+    "excerpt": "草木尽凋残，孤标独耐寒。",
+    "fullText": "草木尽凋残，孤标独耐寒。\n瘦成唐杜甫，高抵汉袁安。\n雪里开春国，花中立将坛。\n年年笑红紫，翻作背时看。",
+    "intensity": 0.72,
+    "note": "李龏在《梅》里提到杜甫，形成一条可追踪的间接连接。",
+    "poemTitle": "梅",
+    "relationId": "李龏-杜甫-梅",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "寒山",
+    "counterpartName": "寒山",
+    "direction": "outgoing",
+    "excerpt": "不拟寒山不广骚，春风藜杖起诗豪。",
+    "fullText": "不拟寒山不广骚，春风藜杖起诗豪。\n霜鸿入夜惊还止，人立梅花月正高。",
+    "intensity": 0.72,
+    "note": "李龏在《梅花集句其一八》里提到寒山，形成一条可追踪的间接连接。",
+    "poemTitle": "梅花集句其一八",
+    "relationId": "李龏-寒山-梅花集句其一八",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "江梅",
+    "counterpartName": "江梅",
+    "direction": "outgoing",
+    "excerpt": "听钟投宿入孤烟，旅馆寒灯照不眠。",
+    "fullText": "听钟投宿入孤烟，旅馆寒灯照不眠。\n竹里江梅寒未吐，平台宾客有谁怜。",
+    "intensity": 0.72,
+    "note": "李龏在《梅花集句其三七》里提到江梅，形成一条可追踪的间接连接。",
+    "poemTitle": "梅花集句其三七",
+    "relationId": "李龏-江梅-梅花集句其三七",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "江梅",
+    "counterpartName": "江梅",
+    "direction": "outgoing",
+    "excerpt": "绝无声色动凡情，香比江梅分外清。",
+    "fullText": "绝无声色动凡情，香比江梅分外清。\n欲问此根何处得，游蜂多思近经营。",
+    "intensity": 0.72,
+    "note": "李龏在《梅花集句其一四五》里提到江梅，形成一条可追踪的间接连接。",
+    "poemTitle": "梅花集句其一四五",
+    "relationId": "李龏-江梅-梅花集句其一四五",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "寒山",
+    "counterpartName": "寒山",
+    "direction": "outgoing",
+    "excerpt": "北风叫枯桑，玉沙粼粼光。",
+    "fullText": "北风叫枯桑，玉沙粼粼光。\n天寒山路石断裂，驻马相看辽水傍。\n军容带甲三十万，都护宝刀冻欲断。\n旄头夜落捷书飞，少年金紫就光辉。",
+    "intensity": 0.72,
+    "note": "李龏在《塞上北风行》里提到寒山，形成一条可追踪的间接连接。",
+    "poemTitle": "塞上北风行",
+    "relationId": "李龏-寒山-塞上北風行",
+    "type": "mention",
+    "typeLabel": "提及"
+  }
+]

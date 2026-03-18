@@ -1,0 +1,80 @@
+[
+  {
+    "counterpartId": "自在",
+    "counterpartName": "自在",
+    "direction": "outgoing",
+    "excerpt": "散仙自在步如飞，络脑黄金不受羁。",
+    "fullText": "散仙自在步如飞，络脑黄金不受羁。\n篱菊清香须把酒，京尘红涨不缁衣。\n倚楼看剑浮名逼，闭户寻诗过客稀。\n水击枪榆俱有得，不妨着我子陵矶。",
+    "intensity": 0.9,
+    "note": "方一夔在《次韵沃梅泉见寄并见和鄙韵其二》里把信息直接发向自在，这是一条强度更高的直连关系。",
+    "poemTitle": "次韵沃梅泉见寄并见和鄙韵其二",
+    "relationId": "方一夔-自在-次韻沃梅泉見寄併見和鄙韻其二",
+    "type": "gift",
+    "typeLabel": "赠诗"
+  },
+  {
+    "counterpartId": "元稹",
+    "counterpartName": "元稹",
+    "direction": "outgoing",
+    "excerpt": "层层楼阁锁娇鬟，要伴朝云出远山。",
+    "fullText": "层层楼阁锁娇鬟，要伴朝云出远山。\n紫府神仙行世上，深宫妃媵落人间。",
+    "intensity": 0.8,
+    "note": "方一夔在《读刘阮事用元微之韵》里提到元稹，形成一条可追踪的间接连接。",
+    "poemTitle": "读刘阮事用元微之韵",
+    "relationId": "方一夔-元稹-讀劉阮事用元微之韻",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "武夷",
+    "counterpartName": "武夷",
+    "direction": "outgoing",
+    "excerpt": "武夷千余仞，山上巢群仙。",
+    "fullText": "武夷千余仞，山上巢群仙。\n曾游析木津，醉堕白玉船。\n其下谁换骨，润州小婵娟。\n烱烱玉莲锁，栖之此山颠。\n丹砂一点染，灵化谁控抟。\n尘根洗不尽，展转来凡间。\n从言一念失，巫山渺云烟。\n徒然八十返，空度三千年。",
+    "intensity": 0.72,
+    "note": "方一夔在《古意六首其四》里提到武夷，形成一条可追踪的间接连接。",
+    "poemTitle": "古意六首其四",
+    "relationId": "方一夔-武夷-古意六首其四",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "盈盈",
+    "counterpartName": "盈盈",
+    "direction": "outgoing",
+    "excerpt": "百年特生木，坚骨余苍干。",
+    "fullText": "百年特生木，坚骨余苍干。\n弃材偶见收，奇制出野爨。\n𫄠以朱丝弦，猗兰度将半。\n相思越关河，安得见此粲。\n悲来不成调，清响忽中断。\n沈吟卷罗衣，终夕愁零乱。\n明月照空庭，盈盈满霄汉。",
+    "intensity": 0.72,
+    "note": "方一夔在《感兴二十七首其一七》里提到盈盈，形成一条可追踪的间接连接。",
+    "poemTitle": "感兴二十七首其一七",
+    "relationId": "方一夔-盈盈-感興二十七首其一七",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "清江",
+    "counterpartName": "清江",
+    "direction": "outgoing",
+    "excerpt": "西窗枕清溪，流水日夜响。",
+    "fullText": "西窗枕清溪，流水日夜响。\n孤眠夜无寐，离梦苦摇荡。\n自我辞家来，弦月屡下上。\n消息不曾真，百念堕滉瀁。\n忆昔心气雄，跃跃盛年想。\n窥奇故牧储，借重宗橐赏。\n山搜富金沙，泽淤耀琨簜。\n天池𬸣孤飞，昆山纷独往。\n下视夸夺子，蠓蠛鸣瓮盎。\n区区凡楚争，逐逐臧谷网。\n蹉跎改素摽，零落收宿莽。\n平生矜与夸，荣为谢外奖。\n惟余不尽心，耿耿犹畴曩。\n譬如老猎猃，闻呼齿足痒。\n清江三百里，西风飒菰蒋。\n明朝溯归舟，鸦轧鸣两桨。",
+    "intensity": 0.72,
+    "note": "方一夔在《秋夜有感》里提到清江，形成一条可追踪的间接连接。",
+    "poemTitle": "秋夜有感",
+    "relationId": "方一夔-清江-秋夜有感",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "寒山",
+    "counterpartName": "寒山",
+    "direction": "outgoing",
+    "excerpt": "萧萧两鬓竟苍然，况近重阳风雨天。",
+    "fullText": "萧萧两鬓竟苍然，况近重阳风雨天。\n欲暝江村烟四起，渐寒山馆客孤眠。\n叶题旧恨在何处，菊折寒香仍去年。\n为忆故人三叹息，东篱沽酒已无钱。",
+    "intensity": 0.72,
+    "note": "方一夔在《晚秋》里提到寒山，形成一条可追踪的间接连接。",
+    "poemTitle": "晚秋",
+    "relationId": "方一夔-寒山-晚秋",
+    "type": "mention",
+    "typeLabel": "提及"
+  }
+]

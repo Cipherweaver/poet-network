@@ -1,0 +1,50 @@
+[
+  {
+    "name": "李白",
+    "dynasty": "唐",
+    "notableWork": "将进酒",
+    "tags": ["浪漫主义", "游侠气", "盛唐中心"]
+  },
+  {
+    "name": "杜甫",
+    "dynasty": "唐",
+    "notableWork": "春望",
+    "tags": ["现实主义", "诗史", "时代书写"]
+  },
+  {
+    "name": "孟浩然",
+    "dynasty": "唐",
+    "notableWork": "春晓",
+    "tags": ["山水田园", "高士气", "盛唐交游"]
+  },
+  {
+    "name": "王昌龄",
+    "dynasty": "唐",
+    "notableWork": "出塞",
+    "tags": ["边塞", "七绝圣手", "送别母题"]
+  },
+  {
+    "name": "王维",
+    "dynasty": "唐",
+    "notableWork": "山居秋暝",
+    "tags": ["山水禅意", "辋川唱和", "画中有诗"]
+  },
+  {
+    "name": "裴迪",
+    "dynasty": "唐",
+    "notableWork": "辋川集",
+    "tags": ["辋川唱和", "隐逸", "友朋共作"]
+  },
+  {
+    "name": "白居易",
+    "dynasty": "唐",
+    "notableWork": "琵琶行",
+    "tags": ["新乐府", "讽谕", "元白唱和"]
+  },
+  {
+    "name": "元稹",
+    "dynasty": "唐",
+    "notableWork": "离思五首",
+    "tags": ["元白", "酬答", "中唐文社"]
+  }
+]

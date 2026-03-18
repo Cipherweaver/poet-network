@@ -1,0 +1,93 @@
+[
+  {
+    "counterpartId": "清江",
+    "counterpartName": "清江",
+    "direction": "outgoing",
+    "excerpt": "清江一日走千艘，独有闲仙不喜遨。",
+    "fullText": "清江一日走千艘，独有闲仙不喜遨。\n几处白云思暮合，数行红树又秋高。",
+    "intensity": 0.9,
+    "note": "戴表元在《寄陆子方》里把信息直接发向清江，这是一条强度更高的直连关系。",
+    "poemTitle": "寄陆子方",
+    "relationId": "戴表元-清江-寄陸子方",
+    "type": "gift",
+    "typeLabel": "赠诗"
+  },
+  {
+    "counterpartId": "孟浩然",
+    "counterpartName": "孟浩然",
+    "direction": "outgoing",
+    "excerpt": "霜风飒飒搅吟鞍，童怖馿愁作许难。",
+    "fullText": "霜风飒飒搅吟鞍，童怖馿愁作许难。\n便使玉堂遭遇去，朝参更是五更寒。",
+    "intensity": 0.8,
+    "note": "戴表元在《题孟浩然霜晓吟行图》里提到孟浩然，形成一条可追踪的间接连接。",
+    "poemTitle": "题孟浩然霜晓吟行图",
+    "relationId": "戴表元-孟浩然-題孟浩然霜曉吟行圖",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "自在",
+    "counterpartName": "自在",
+    "direction": "outgoing",
+    "excerpt": "雨色今夜别，映门白鲜鲜。",
+    "fullText": "雨色今夜别，映门白鲜鲜。\n隃知万古月，自在最高天。\n天高无阴晴，月亦无亏圆。\n中间隔云雾，顷刻变态千。\n惟当自作乐，上界岂我怜。\n接竹风撼郭，倒尊水号川。\n狂歌眺渺莽，恐有浮槎仙。",
+    "intensity": 0.72,
+    "note": "戴表元在《八月十五夜雨中微有月色》里提到自在，形成一条可追踪的间接连接。",
+    "poemTitle": "八月十五夜雨中微有月色",
+    "relationId": "戴表元-自在-八月十五夜雨中微有月色",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "杜甫",
+    "counterpartName": "杜甫",
+    "direction": "outgoing",
+    "excerpt": "人说离乡贱，归乡更莫论。",
+    "fullText": "人说离乡贱，归乡更莫论。\n许询家莫干，杜甫客东屯。\n废井微踪出，新邻杂语喧。\n平生江海意，岁晚白榆村。",
+    "intensity": 0.72,
+    "note": "戴表元在《旧里火后多有筑宅者太平客户也》里提到杜甫，形成一条可追踪的间接连接。",
+    "poemTitle": "旧里火后多有筑宅者太平客户也",
+    "relationId": "戴表元-杜甫-舊里火後多有築宅者太平客戶也",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "自在",
+    "counterpartName": "自在",
+    "direction": "outgoing",
+    "excerpt": "溪山兵后县，风雪旅中人。",
+    "fullText": "溪山兵后县，风雪旅中人。\n迫夜愁严鼓，冲寒托软巾。\n摧藏名自在，疏率馔殽真。\n今代徐元直，高风自可亲。",
+    "intensity": 0.72,
+    "note": "戴表元在《宿赵𡸯丞家》里提到自在，形成一条可追踪的间接连接。",
+    "poemTitle": "宿赵𡸯丞家",
+    "relationId": "戴表元-自在-宿趙𡸯丞家",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "李白",
+    "counterpartName": "李白",
+    "direction": "outgoing",
+    "excerpt": "百年访古此徘徊，更上山椒扫草莱。",
+    "fullText": "百年访古此徘徊，更上山椒扫草莱。\n一脔地腴胡马瞰，数围天险化龙开。\n时闻营籍传谣曲，谁见禅宫离劫灰。\n李白不生王谢歇，西风日落凤皇台。",
+    "intensity": 0.72,
+    "note": "戴表元在《吴兄文参议同登金陵凤皇台醉作》里提到李白，形成一条可追踪的间接连接。",
+    "poemTitle": "吴兄文参议同登金陵凤皇台醉作",
+    "relationId": "戴表元-李白-吳兄文參議同登金陵鳳皇臺醉作",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "江梅",
+    "counterpartName": "江梅",
+    "direction": "outgoing",
+    "excerpt": "地移淮橘多成枳，人说江梅竟是柟。",
+    "fullText": "地移淮橘多成枳，人说江梅竟是柟。\n蜀木似桤成底用，盛时名字落江南。",
+    "intensity": 0.72,
+    "note": "戴表元在《张道士求桤林诗》里提到江梅，形成一条可追踪的间接连接。",
+    "poemTitle": "张道士求桤林诗",
+    "relationId": "戴表元-江梅-張道士求榿林詩",
+    "type": "mention",
+    "typeLabel": "提及"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "counterpartId": "武夷",
+    "counterpartName": "武夷",
+    "direction": "outgoing",
+    "excerpt": "僊骨久已蜕，尚遗空石函。",
+    "fullText": "僊骨久已蜕，尚遗空石函。\n白云最深处，猿鹤情相谙。\n松花饥可飧，渴饮寒泉甘。\n招邀武夷君，清风资玄谈。",
+    "intensity": 0.99,
+    "note": "胡仲弓在《送沈炼师归武夷其一》里把信息直接发向武夷，这是一条强度更高的直连关系。",
+    "poemTitle": "送沈炼师归武夷其一",
+    "relationId": "胡仲弓-武夷-送沈鍊師歸武夷其一",
+    "type": "gift",
+    "typeLabel": "赠诗"
+  },
+  {
+    "counterpartId": "武夷",
+    "counterpartName": "武夷",
+    "direction": "outgoing",
+    "excerpt": "焚香礼象纬，步虚声摩空。",
+    "fullText": "焚香礼象纬，步虚声摩空。\n升真古洞天，依稀五明宫。\n宝珠如黍米，悬悬太虚中。\n炼师于此时，金丹满炉红。",
+    "intensity": 0.98,
+    "note": "胡仲弓在《送沈炼师归武夷其二》里把信息直接发向武夷，这是一条强度更高的直连关系。",
+    "poemTitle": "送沈炼师归武夷其二",
+    "relationId": "胡仲弓-武夷-送沈鍊師歸武夷其二",
+    "type": "gift",
+    "typeLabel": "赠诗"
+  },
+  {
+    "counterpartId": "杜牧",
+    "counterpartName": "杜牧",
+    "direction": "outgoing",
+    "excerpt": "风流不减晋诸贤，涌出胸中万斛泉。",
+    "fullText": "风流不减晋诸贤，涌出胸中万斛泉。\n吟到秦淮商女句，令人忆杀杜樊川。",
+    "intensity": 0.8,
+    "note": "胡仲弓在《读杜牧之诗》里提到杜牧，形成一条可追踪的间接连接。",
+    "poemTitle": "读杜牧之诗",
+    "relationId": "胡仲弓-杜牧-讀杜牧之詩",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "李白",
+    "counterpartName": "李白",
+    "direction": "outgoing",
+    "excerpt": "顽云痴雨霸春寒，李白桃红总失欢。",
+    "fullText": "顽云痴雨霸春寒，李白桃红总失欢。\n试问东君因底事，却来花上作艰难。",
+    "intensity": 0.72,
+    "note": "胡仲弓在《雨中看花》里提到李白，形成一条可追踪的间接连接。",
+    "poemTitle": "雨中看花",
+    "relationId": "胡仲弓-李白-雨中看花",
+    "type": "mention",
+    "typeLabel": "提及"
+  }
+]

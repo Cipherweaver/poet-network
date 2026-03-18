@@ -1,0 +1,93 @@
+[
+  {
+    "counterpartId": "方回",
+    "counterpartName": "方回",
+    "direction": "outgoing",
+    "excerpt": "北风吹我上金台，忍见蛾眉堕马嵬。",
+    "fullText": "北风吹我上金台，忍见蛾眉堕马嵬。\n宴罢蟠桃王母去，江南肠断贺方回。",
+    "intensity": 0.9,
+    "note": "汪元量在《答同舍杜德机》里把信息直接发向方回，这是一条强度更高的直连关系。",
+    "poemTitle": "答同舍杜德机",
+    "relationId": "汪元量-方回-答同舍杜德機",
+    "type": "gift",
+    "typeLabel": "赠诗"
+  },
+  {
+    "counterpartId": "清江",
+    "counterpartName": "清江",
+    "direction": "outgoing",
+    "excerpt": "昔年变姓走淮滨，虎豹从横独怆神。",
+    "fullText": "昔年变姓走淮滨，虎豹从横独怆神。\n青海茫茫迷故国，黄尘黯黯泣孤臣。\n魏雎张禄梦中梦，越蠡陶朱身后身。\n今日相看论往事，刘洙元是姓文人。",
+    "intensity": 0.8,
+    "note": "汪元量在《文山丞相丙子自京口脱去变姓名作清江刘洙今日相对得非梦耶》里提到清江，形成一条可追踪的间接连接。",
+    "poemTitle": "文山丞相丙子自京口脱去变姓名作清江刘洙今日相对得非梦耶",
+    "relationId": "汪元量-清江-文山丞相丙子自京口脫去變姓名作清江劉洙今日相對得非夢耶",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "李白",
+    "counterpartName": "李白",
+    "direction": "outgoing",
+    "excerpt": "草没高台凤不游，大江日夜自东流。",
+    "fullText": "草没高台凤不游，大江日夜自东流。\n齐梁地废鸦千树，王谢家空蚁一丘。\n骑马僧争淮口渡，捕鱼人据石头洲。\n玉箫声断悲风起，不见长安李白愁。",
+    "intensity": 0.72,
+    "note": "汪元量在《凤凰台》里提到李白，形成一条可追踪的间接连接。",
+    "poemTitle": "凤凰台",
+    "relationId": "汪元量-李白-鳳凰臺",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "盈盈",
+    "counterpartName": "盈盈",
+    "direction": "outgoing",
+    "excerpt": "不堪回首泪盈盈，万里淮河听雨声。",
+    "fullText": "不堪回首泪盈盈，万里淮河听雨声。\n莫问萍虀并豆粥，且餐麦饭与鱼羹。",
+    "intensity": 0.72,
+    "note": "汪元量在《湖州歌九十八首其三三》里提到盈盈，形成一条可追踪的间接连接。",
+    "poemTitle": "湖州歌九十八首其三三",
+    "relationId": "汪元量-盈盈-湖州歌九十八首其三三",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "盈盈",
+    "counterpartName": "盈盈",
+    "direction": "outgoing",
+    "excerpt": "皎皎千婵娟，盈盈翠红围。",
+    "fullText": "皎皎千婵娟，盈盈翠红围。\n辇来路迢递，梳鬟理征衣。\n复采鸳鸯花，缀之连理枝。\n忧愁忽已失，欢乐当自兹。\n君王不重色，安肯留金闺。\n再令出宫掖，相看泪交垂。\n分配老斵轮，强颜相追随。\n旧恩弃如土，新宠岂所宜。\n谁谓事当尔，苦乐心自知。\n含情理金徽，烦声乱朱丝。\n一弹丹凤离，再弹黄鹄飞。\n已恨听者少，更伤知音稀。\n吞声不忍哭，寄曲宣余悲。\n可怜薄命身，万里荣华衰。\n江南天一涯，流落将安归。\n向来承恩地，月落夜乌啼。",
+    "intensity": 0.72,
+    "note": "汪元量在《宋宫人分嫁北匠》里提到盈盈，形成一条可追踪的间接连接。",
+    "poemTitle": "宋宫人分嫁北匠",
+    "relationId": "汪元量-盈盈-宋宮人分嫁北匠",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "自在",
+    "counterpartName": "自在",
+    "direction": "outgoing",
+    "excerpt": "从初得得便风流。",
+    "fullText": "从初得得便风流。\n降伏龟蛇住定州。\n千日丹成永永收。\n好因由。\n自在逍遥万事休。",
+    "intensity": 0.72,
+    "note": "汪元量在《忆王孙》里提到自在，形成一条可追踪的间接连接。",
+    "poemTitle": "忆王孙",
+    "relationId": "汪元量-自在-忆王孙",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "盈盈",
+    "counterpartName": "盈盈",
+    "direction": "outgoing",
+    "excerpt": "笑盈盈。",
+    "fullText": "笑盈盈。\n晓妆扫出长眉青。\n长眉青。\n双开雉扇，六曲鸳屏。\n少年心在尚多情。\n酒边银甲弹长筝。\n弹长筝。\n碧桃花下，醉到三更。",
+    "intensity": 0.72,
+    "note": "汪元量在《忆秦娥》里提到盈盈，形成一条可追踪的间接连接。",
+    "poemTitle": "忆秦娥",
+    "relationId": "汪元量-盈盈-忆秦娥",
+    "type": "mention",
+    "typeLabel": "提及"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "counterpartId": "李石",
+    "counterpartName": "李石",
+    "direction": "outgoing",
+    "excerpt": "痴人如马系犹驰，我有心经喜自披。",
+    "fullText": "痴人如马系犹驰，我有心经喜自披。\n解使伏戎仇李石，何如瞠视友桃椎。\n老怀只付一杯足，壮气浑如再鼓衰。\n得失到头堪献笑，纵令有道莫求之。",
+    "intensity": 0.9,
+    "note": "林希逸在《和后村书窗韵四首其三》里把信息直接发向李石，这是一条强度更高的直连关系。",
+    "poemTitle": "和后村书窗韵四首其三",
+    "relationId": "林希逸-李石-和後村書窗韻四首其三",
+    "type": "gift",
+    "typeLabel": "赠诗"
+  },
+  {
+    "counterpartId": "李白",
+    "counterpartName": "李白",
+    "direction": "outgoing",
+    "excerpt": "失身杯酒莫追尤，烂醉生涯尽自由。",
+    "fullText": "失身杯酒莫追尤，烂醉生涯尽自由。\n可倚何须鹦鹉赋，相逢且解骕骦裘。\n今无客入扬雄巷，终有人题李白楼。\n却笑三闾太憔悴，独醒犹作畔牢愁。",
+    "intensity": 0.72,
+    "note": "林希逸在《与陈同舍饮三元楼》里提到李白，形成一条可追踪的间接连接。",
+    "poemTitle": "与陈同舍饮三元楼",
+    "relationId": "林希逸-李白-與陳同舍飲三元樓",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "寒山",
+    "counterpartName": "寒山",
+    "direction": "outgoing",
+    "excerpt": "多少醒人作寐语，异形同趣谁知汝。",
+    "fullText": "多少醒人作寐语，异形同趣谁知汝。\n四头十足相枕眠，寒山拾得丰干虎。",
+    "intensity": 0.72,
+    "note": "林希逸在《四睡戏题》里提到寒山，形成一条可追踪的间接连接。",
+    "poemTitle": "四睡戏题",
+    "relationId": "林希逸-寒山-四睡戲題",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "李白",
+    "counterpartName": "李白",
+    "direction": "outgoing",
+    "excerpt": "何处君家亦乐园，遥知眼界与天宽。",
+    "fullText": "何处君家亦乐园，遥知眼界与天宽。\n年时料得群花好，岁晚祇留老树蟠。\n佳客酒中吟李白，主人林下见韦丹。\n事随鸿去今如梦，却有赓酬集可观。",
+    "intensity": 0.72,
+    "note": "林希逸在《次韵题马氏亦乐园集》里提到李白，形成一条可追踪的间接连接。",
+    "poemTitle": "次韵题马氏亦乐园集",
+    "relationId": "林希逸-李白-次韻題馬氏亦樂園集",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "方回",
+    "counterpartName": "方回",
+    "direction": "outgoing",
+    "excerpt": "帝斡璇杓处，云高隔几重。",
+    "fullText": "帝斡璇杓处，云高隔几重。\n自天携左角，出地见青龙。\n碧汉方回柄，苍精恰露容。\n举头看斗指，骧首觉云从。\n西揭殊春候，东骑验尾踪。\n韩门人所仰，直欲折充宗。",
+    "intensity": 0.72,
+    "note": "林希逸在《杓携龙角》里提到方回，形成一条可追踪的间接连接。",
+    "poemTitle": "杓携龙角",
+    "relationId": "林希逸-方回-杓携龍角",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "方回",
+    "counterpartName": "方回",
+    "direction": "outgoing",
+    "excerpt": "早岁登门叨赏异，暮年造阙喜追陪。",
+    "fullText": "早岁登门叨赏异，暮年造阙喜追陪。\n每从省户供词去，多向都曹诵句来。\n逐客赠年今尚在，痴儿别饮恰方回。\n湖边握手如前日，身隔千山叹玉埋。",
+    "intensity": 0.72,
+    "note": "林希逸在《陈节斋挽诗其三》里提到方回，形成一条可追踪的间接连接。",
+    "poemTitle": "陈节斋挽诗其三",
+    "relationId": "林希逸-方回-陳節齋挽詩其三",
+    "type": "mention",
+    "typeLabel": "提及"
+  }
+]

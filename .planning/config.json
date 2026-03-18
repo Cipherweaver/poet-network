@@ -1,0 +1,17 @@
+{
+  "mode": "interactive",
+  "granularity": "standard",
+  "parallelization": true,
+  "commit_docs": true,
+  "model_profile": "inherit",
+  "workflow": {
+    "research": true,
+    "plan_check": true,
+    "verifier": true,
+    "nyquist_validation": false,
+    "ui_phase": true,
+    "ui_safety_gate": true,
+    "auto_advance": false,
+    "_auto_chain_active": false
+  }
+}

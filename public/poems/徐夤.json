@@ -1,0 +1,28 @@
+[
+  {
+    "counterpartId": "武夷",
+    "counterpartName": "武夷",
+    "direction": "outgoing",
+    "excerpt": "武夷春暖月初圆，采摘新芽献地仙。",
+    "fullText": "武夷春暖月初圆，采摘新芽献地仙。\n飞鹊印成香蜡片，啼猿溪走木兰船。\n金槽和碾沈香末，冰椀轻涵翠缕烟。\n分赠恩深知最异，晚铛宜煮北山泉。",
+    "intensity": 0.72,
+    "note": "徐夤在《尚书惠蜡面茶》里提到武夷，形成一条可追踪的间接连接。",
+    "poemTitle": "尚书惠蜡面茶",
+    "relationId": "徐夤-武夷-尚書惠蠟面茶",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "武夷",
+    "counterpartName": "武夷",
+    "direction": "outgoing",
+    "excerpt": "武夷春暖月初圆，采摘新芽献地仙。飞鹊",
+    "fullText": "武夷春暖月初圆，采摘新芽献地仙。飞鹊印成香蜡片，\n分赠恩深知最异，晚铛宜煮北山泉。",
+    "intensity": 0.72,
+    "note": "徐夤在《尚书惠蜡面茶》里提到武夷，形成一条可追踪的间接连接。",
+    "poemTitle": "尚书惠蜡面茶",
+    "relationId": "徐夤-武夷-尚書惠蠟麵茶",
+    "type": "mention",
+    "typeLabel": "提及"
+  }
+]

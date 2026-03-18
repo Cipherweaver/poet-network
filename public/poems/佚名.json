@@ -1,0 +1,54 @@
+[
+  {
+    "counterpartId": "王建",
+    "counterpartName": "王建",
+    "direction": "outgoing",
+    "excerpt": "数在五楼前。",
+    "fullText": "数在五楼前。\n（见《说郛》卷二十引《洛中纪异录》）。",
+    "intensity": 0.8,
+    "note": "佚名在《王建时谶》里提到王建，形成一条可追踪的间接连接。",
+    "poemTitle": "王建时谶",
+    "relationId": "佚名-王建-王建時讖",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "白居易",
+    "counterpartName": "白居易",
+    "direction": "outgoing",
+    "excerpt": "郑玄家牛，触墙成八字。",
+    "fullText": "郑玄家牛，触墙成八字。\n（见《白氏长庆集》卷二六《双鹦鹉》诗注引）。",
+    "intensity": 0.8,
+    "note": "佚名在《白居易引谚》里提到白居易，形成一条可追踪的间接连接。",
+    "poemTitle": "白居易引谚",
+    "relationId": "佚名-白居易-白居易引諺",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "寒山",
+    "counterpartName": "寒山",
+    "direction": "outgoing",
+    "excerpt": "西行过马圈，北望近阳关。",
+    "fullText": "西行过马圈，北望近阳关。\n回首见城郭，黯然林树间。\n野烟暝村墅，初是惨寒山。\n步步针（缄）愁色，迢迢惟梦还。",
+    "intensity": 0.72,
+    "note": "佚名在《冬出敦煌郡入退浑国朝发马圈之作》里提到寒山，形成一条可追踪的间接连接。",
+    "poemTitle": "冬出敦煌郡入退浑国朝发马圈之作",
+    "relationId": "佚名-寒山-冬出敦煌郡入退渾國朝發馬圈之作",
+    "type": "mention",
+    "typeLabel": "提及"
+  },
+  {
+    "counterpartId": "清江",
+    "counterpartName": "清江",
+    "direction": "outgoing",
+    "excerpt": "可怜地上楼，百姓不知修。",
+    "fullText": "可怜地上楼，百姓不知修。\n上有清使君，下有清江流。\n（见《全唐文》卷六一九戎昱《浓州新城颂序》引）。",
+    "intensity": 0.72,
+    "note": "佚名在《浓州人为刺史歌（题从《古谣谚》卷二七）》里提到清江，形成一条可追踪的间接连接。",
+    "poemTitle": "浓州人为刺史歌（题从《古谣谚》卷二七）",
+    "relationId": "佚名-清江-濃州人爲刺史歌-題從-古謠諺-卷二七",
+    "type": "mention",
+    "typeLabel": "提及"
+  }
+]
